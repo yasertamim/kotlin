@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "215796040083",
+    "firebase_url": "https://todolist-5fd1b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "todolist-5fd1b",
+    "storage_bucket": "todolist-5fd1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215796040083:android:0f7ba3379a18c6764b2866",
+        "android_client_info": {
+          "package_name": "com.example.prosjektoppgave1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215796040083-9o79ptdm3kejuvl39h8hhbieco5rfk9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfNegEEw_muC9JNm7UtfjjRHaSS30Wccc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215796040083-9o79ptdm3kejuvl39h8hhbieco5rfk9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
